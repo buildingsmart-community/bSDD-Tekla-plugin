@@ -1,0 +1,10 @@
+﻿<Application x:Class="BsddTeklaPlugin.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BsddTeklaPlugin"
+             xmlns:ui="clr-namespace:BsddTeklaPlugin.UI"
+             StartupUri="/UI/OSCB_DebugView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

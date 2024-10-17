@@ -1,0 +1,11 @@
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\Images\Icons\BsddLabel.ico
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\Images\Icons\IfcExport.ico
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\BsddRevitPlugin.Resources.dll
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\BsddRevitPlugin.Resources.pdb
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\NLog.dll
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\bin\Release\NLog.xml
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\obj\x64\Release\BsddRevitPlugin.Resources.csproj.AssemblyReference.cache
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\obj\x64\Release\BsddRevitPlugin.Resources.csproj.CoreCompileInputs.cache
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\obj\x64\Release\BsddRevi.CCFBA275.Up2Date
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\obj\x64\Release\BsddRevitPlugin.Resources.dll
+C:\source\bSDD-Revit-plugin\BsddRevitPlugin.Resources\obj\x64\Release\BsddRevitPlugin.Resources.pdb
