@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsddTeklaFeature.Logic", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsdd.Core", "Bsdd.Core\Bsdd.Core.csproj", "{72177168-C803-4536-B292-B9F9D9112D25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsdd.Core.Logic", "Bsdd.Core.Logic\Bsdd.Core.Logic.csproj", "{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,14 @@ Global
 		{72177168-C803-4536-B292-B9F9D9112D25}.Release|Any CPU.Build.0 = Release|Any CPU
 		{72177168-C803-4536-B292-B9F9D9112D25}.Release|x64.ActiveCfg = Release|Any CPU
 		{72177168-C803-4536-B292-B9F9D9112D25}.Release|x64.Build.0 = Release|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Debug|x64.Build.0 = Debug|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

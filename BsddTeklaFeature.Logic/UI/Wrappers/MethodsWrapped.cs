@@ -1,6 +1,8 @@
 ﻿using BsddTeklaFeature.Logic.UI.BsddBridge;
 using System;
 using System.Collections.Generic;
+using NLog;
+using Bsdd.Core.Log;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +16,7 @@ namespace BsddTeklaFeature.Logic.UI.Wrappers
 
         private IBrowserService browser;
 
-        public override void Execute(UIApplication uiapp, BsddSettings bsddSettings)
+        public UpdateUIonSave(BsddSettings bsddSettings)
         {
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Document doc = uidoc.Document;
