@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\",
+  "WorkspaceRootPath": "C:\\source\\bSDD-Tekla-plugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\utilities\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\utilities\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\wrappers\\methodswrapped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\wrappers\\methodswrapped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\filemanagement\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\filemanagement\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Math.cs",
-              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Utilities\\Math.cs",
-              "RelativeDocumentMoniker": "Bsdd.Core\\Utilities\\Math.cs",
-              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Utilities\\Math.cs",
-              "RelativeToolTip": "Bsdd.Core\\Utilities\\Math.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MethodsWrapped.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:38:22.886Z",
+              "WhenOpened": "2024-10-21T15:00:44.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\FileManagement\\FileValidator.cs",
-              "RelativeDocumentMoniker": "Bsdd.Core\\FileManagement\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\FileManagement\\FileValidator.cs",
-              "RelativeToolTip": "Bsdd.Core\\FileManagement\\FileValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Title": "BsddBridgeData.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:33:09.603Z",
+              "WhenOpened": "2024-10-21T15:00:38.535Z",
               "EditorCaption": ""
             }
           ]

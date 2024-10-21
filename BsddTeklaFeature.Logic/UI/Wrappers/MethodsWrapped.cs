@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Bsdd.Core.Logic.UI.Services;
+using Tekla.Structures.Model;
 
 namespace BsddTeklaFeature.Logic.UI.Wrappers
 {
@@ -18,11 +20,11 @@ namespace BsddTeklaFeature.Logic.UI.Wrappers
 
         public UpdateUIonSave(BsddSettings bsddSettings)
         {
-            UIDocument uidoc = uiapp.ActiveUIDocument;
-            Document doc = uidoc.Document;
+            //UIDocument uidoc = uiapp.ActiveUIDocument;
+            //Document doc = uidoc.Document;
 
-            //UpdateSettings(bsddSettings);
-            SettingsManager.SaveSettingsToGlobalParametersAndDataStorage(doc, bsddSettings);
+            ////UpdateSettings(bsddSettings);
+            //SettingsManager.SaveSettingsToGlobalParametersAndDataStorage(doc, bsddSettings);
             UpdateBsddLastSelection();
 
 
@@ -35,23 +37,23 @@ namespace BsddTeklaFeature.Logic.UI.Wrappers
 
         public void UpdateBsddLastSelection()
         {
-            List<ElementType> lastSelection = new List<ElementType>();
+            List<ModelObject> lastSelection = new List<ModelObject>();
             try
             {
-                lastSelection = GlobalSelection.LastSelectedElementsWithDocs[GlobalDocument.currentDocument.PathName];
+                lastSelection = GlobalSelection.LastSelectedElementsWithDocs[GlobalModel.currentModelPath];
 
             }
             catch (Exception)
             {
 
             }
-            var jsonString = JsonConvert.SerializeObject(ElementsManager.SelectionToIfcJson(GlobalDocument.currentDocument, lastSelection));
-            var jsFunctionCall = $"updateSelection({jsonString});";
+            //var jsonString = JsonConvert.SerializeObject(ElementsManager.SelectionToIfcJson(GlobalModel.currentModel, lastSelection));
+            //var jsFunctionCall = $"updateSelection({jsonString});";
 
-            if (browser.IsBrowserInitialized)
-            {
-                browser.ExecuteScriptAsync(jsFunctionCall);
-            }
+            //if (browser.IsBrowserInitialized)
+            //{
+            //    browser.ExecuteScriptAsync(jsFunctionCall);
+            //}
         }
 
     }

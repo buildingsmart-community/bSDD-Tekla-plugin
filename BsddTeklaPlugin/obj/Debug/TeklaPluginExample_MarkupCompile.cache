@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\gvln\source\repos\BsddTeklaPlugin_Beta\BsddTeklaPlugin\obj\Debug\
+C:\source\bSDD-Tekla-plugin\BsddTeklaPlugin\obj\Debug\
 BsddTeklaPlugin
 none
 false
 DEBUG;TRACE
 
-322675513
+3462063939
 
-15-662831845
-39-1789131041
+15-296887144
+39769232548
 UI\OSCB_DemoPage.xaml;UI\OSCB_DemoView.xaml;StandaloneTestWindow.xaml;
 
-True
+False
 

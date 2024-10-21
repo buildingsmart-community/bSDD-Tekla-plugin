@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\log\\bsddlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\log\\bsddlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\utilities\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\utilities\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\log\\loghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\log\\loghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\users\\gvln\\source\\repos\\bsddteklaplugin_beta\\bsdd.core\\filemanagement\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|solutionrelative:bsdd.core\\filemanagement\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LogHandler.cs",
-              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Log\\LogHandler.cs",
-              "RelativeDocumentMoniker": "Bsdd.Core\\Log\\LogHandler.cs",
-              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Log\\LogHandler.cs",
-              "RelativeToolTip": "Bsdd.Core\\Log\\LogHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Utilities\\Math.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core\\Utilities\\Math.cs",
+              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Utilities\\Math.cs",
+              "RelativeToolTip": "Bsdd.Core\\Utilities\\Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:29:35.97Z",
+              "WhenOpened": "2024-10-21T14:38:22.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BsddLogConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Log\\BsddLogConfiguration.cs",
-              "RelativeDocumentMoniker": "Bsdd.Core\\Log\\BsddLogConfiguration.cs",
-              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\Log\\BsddLogConfiguration.cs",
-              "RelativeToolTip": "Bsdd.Core\\Log\\BsddLogConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\FileManagement\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core\\FileManagement\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\gvln\\source\\repos\\BsddTeklaPlugin_Beta\\Bsdd.Core\\FileManagement\\FileValidator.cs",
+              "RelativeToolTip": "Bsdd.Core\\FileManagement\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:29:10.305Z",
+              "WhenOpened": "2024-10-21T14:33:09.603Z",
               "EditorCaption": ""
             }
           ]

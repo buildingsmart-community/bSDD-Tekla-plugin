@@ -177,6 +177,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bsdd.Core.Logic\Bsdd.Core.Logic.csproj">
+      <Project>{4f377fb6-4e17-48bd-945c-60e4de5b67f0}</Project>
+      <Name>Bsdd.Core.Logic</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Bsdd.Core\Bsdd.Core.csproj">
       <Project>{72177168-c803-4536-b292-b9f9d9112d25}</Project>
       <Name>Bsdd.Core</Name>

@@ -14,7 +14,10 @@ namespace BsddTeklaFeature.Logic.UI.BsddBridge
     public static class GlobalModel
     {
         public static Model currentModel;
+        public static string currentModelPath => currentModel.GetInfo().ModelPath;
     }
+
+
     public static class GlobalBsddSettings
     {
         public static BsddSettings bsddsettings = new BsddSettings();
