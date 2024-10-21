@@ -1,0 +1,4 @@
+C:\Users\gvln\source\repos\BsddTeklaPlugin_Beta\BsddTeklaFeature.Logic\obj\Debug\BsddTeklaFeature.Logic.csproj.AssemblyReference.cache
+C:\Users\gvln\source\repos\BsddTeklaPlugin_Beta\BsddTeklaFeature.Logic\obj\Debug\BsddTeklaFeature.Logic.Properties.Resources.resources
+C:\Users\gvln\source\repos\BsddTeklaPlugin_Beta\BsddTeklaFeature.Logic\obj\Debug\BsddTeklaFeature.Logic.csproj.GenerateResource.cache
+C:\Users\gvln\source\repos\BsddTeklaPlugin_Beta\BsddTeklaFeature.Logic\obj\Debug\BsddTeklaFeature.Logic.csproj.CoreCompileInputs.cache

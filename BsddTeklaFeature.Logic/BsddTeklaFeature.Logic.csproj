@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6010053-BCA5-463A-A567-8D8D712B9E87}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>BsddTeklaFeature.Logic</RootNamespace>
+    <AssemblyName>BsddTeklaFeature.Logic</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fusion">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Fusion.dll</HintPath>
+    </Reference>
+    <Reference Include="Model.Common">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Model.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Tekla.Application.Library, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Application.Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.BIM.Common.Contracts">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.BIM.Common.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.BIM.DirectManipulation">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.BIM.DirectManipulation.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.BIM.Geometry">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.BIM.Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.BIM.Toolkit">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.BIM.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.BIM.Utilities">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.BIM.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Common.Geometry, Version=4.6.0.0, Culture=neutral, PublicKeyToken=93c0f7e4f1ca9619, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Common.Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Common.Geometry.Primitives, Version=4.5.0.0, Culture=neutral, PublicKeyToken=93c0f7e4f1ca9619, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Common.Geometry.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Common.Geometry.Shapes, Version=4.6.2.0, Culture=neutral, PublicKeyToken=93c0f7e4f1ca9619, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Common.Geometry.Shapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Common.Geometry.Shapes.Tools">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Common.Geometry.Shapes.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Analysis, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Analysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Catalogs, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Catalogs.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Datatype, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Datatype.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Dialog, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Dialog.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.DirectManipulation">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.DirectManipulation.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Drawing, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Geometry3d.Compatibility">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Geometry3d.Compatibility.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Model, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Plugins, Version=2023.0.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Plugins.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.Structures.Ui.WpfKit">
+      <HintPath>..\..\..\..\..\..\source\Tekla-Externals\Tekla\2023\Tekla.Structures.Ui.WpfKit.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IfcJson\IfcJson.cs" />
+    <Compile Include="IfcJson\IfcJsonConverter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UI\BsddBridge\BsddBridgeData.cs" />
+    <Compile Include="UI\BsddBridge\BsddSearchBridge.cs" />
+    <Compile Include="UI\BsddBridge\BsddSelectionBridge.cs" />
+    <Compile Include="UI\Wrappers\MethodsWrapped.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsddTeklaFeature", "BsddTek
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsddTeklaPlugin.Resources", "BsddTeklaPlugin.Resources\BsddTeklaPlugin.Resources.csproj", "{4C519D66-46F3-43DF-BCF5-CC1847654828}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsddTeklaFeature.Logic", "BsddTeklaFeature.Logic\BsddTeklaFeature.Logic.csproj", "{C6010053-BCA5-463A-A567-8D8D712B9E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsdd.Core", "Bsdd.Core\Bsdd.Core.csproj", "{72177168-C803-4536-B292-B9F9D9112D25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,22 @@ Global
 		{4C519D66-46F3-43DF-BCF5-CC1847654828}.Release|Any CPU.Build.0 = Release|x64
 		{4C519D66-46F3-43DF-BCF5-CC1847654828}.Release|x64.ActiveCfg = Release|x64
 		{4C519D66-46F3-43DF-BCF5-CC1847654828}.Release|x64.Build.0 = Release|x64
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Debug|x64.Build.0 = Debug|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Release|x64.ActiveCfg = Release|Any CPU
+		{C6010053-BCA5-463A-A567-8D8D712B9E87}.Release|x64.Build.0 = Release|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Debug|x64.Build.0 = Debug|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Release|x64.ActiveCfg = Release|Any CPU
+		{72177168-C803-4536-B292-B9F9D9112D25}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
