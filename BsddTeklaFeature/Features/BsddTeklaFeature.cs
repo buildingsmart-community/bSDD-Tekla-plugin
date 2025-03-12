@@ -17,7 +17,7 @@ namespace BsddTeklaFeature.Features
         [PublishedView("BsddTeklaFeature.MainToolPanel", ViewType = typeof(MainWindow))]
         [PublishedViewMetadata("Panel.Location", "Side")]
         [PublishedViewMetadata("Panel.HeaderTextKey", "Bsdd.Title")]
-        [PublishedViewMetadata("Panel.HeaderGeometryKey", "Bsdd.Icon")]
+        [PublishedViewMetadata("Panel.HeaderGeometryKey", "Bsdd.Icon1")]
         [PublishedViewMetadata("Panel.IsVisible", true)]
         [PublishedViewMetadata("Panel.IsTabVisible", true)]
         public ViewModel CreateExamplePanel(object parameter)

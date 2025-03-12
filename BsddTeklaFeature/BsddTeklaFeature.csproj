@@ -186,6 +186,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bsdd.Core.Logic\Bsdd.Core.Logic.csproj">
+      <Project>{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}</Project>
+      <Name>Bsdd.Core.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BsddTeklaFeature.Logic\BsddTeklaFeature.Logic.csproj">
+      <Project>{C6010053-BCA5-463A-A567-8D8D712B9E87}</Project>
+      <Name>BsddTeklaFeature.Logic</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BsddTeklaPlugin.Resources\BsddTeklaPlugin.Resources.csproj">
       <Project>{4c519d66-46f3-43df-bcf5-cc1847654828}</Project>
       <Name>BsddTeklaPlugin.Resources</Name>

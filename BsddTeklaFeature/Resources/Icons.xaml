@@ -17,11 +17,5 @@
     </Geometry>
 
     <!-- GeometryGroup that combines all three -->
-    <GeometryGroup x:Key="Bsdd.Icon">
-        <GeometryGroup.Children>
-            <StaticResource ResourceKey="Bsdd.Icon1"/>
-            <StaticResource ResourceKey="Bsdd.Icon2"/>
-            <StaticResource ResourceKey="Bsdd.Icon3"/>
-        </GeometryGroup.Children>
-    </GeometryGroup>
+   
 </ResourceDictionary>

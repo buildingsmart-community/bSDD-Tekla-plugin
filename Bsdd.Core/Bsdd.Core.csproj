@@ -91,4 +91,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>rem copy "$(TargetPath)" "C:\TeklaStructures\2023.0\Environments\common\extensions\"</PostBuildEvent>
+  </PropertyGroup>
 </Project>

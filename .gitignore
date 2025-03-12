@@ -1,0 +1,4 @@
+packages/chromiumembeddedframework.runtime.win-x86.130.1.9/chromiumembeddedframework.runtime.win-x86.130.1.9.nupkg
+packages/chromiumembeddedframework.runtime.win-x64.130.1.9/chromiumembeddedframework.runtime.win-x64.130.1.9.nupkg
+packages/chromiumembeddedframework.runtime.win-x86.130.1.9/runtimes/win-x86/native/libcef.dll
+packages/chromiumembeddedframework.runtime.win-x64.130.1.9/runtimes/win-x64/native/libcef.dll

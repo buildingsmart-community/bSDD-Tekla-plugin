@@ -1,4 +1,4 @@
-﻿using BsddTeklaFeature.Logic.IfcJson;
+﻿using Bsdd.Core.Logic.IfcJson;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using Tekla.Structures.Model;

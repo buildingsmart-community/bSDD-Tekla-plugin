@@ -1,0 +1,43 @@
+{
+  "bsddApiEnvironment": "production",
+  "mainDictionary": {
+    "ifcClassification": {
+      "type": "IfcClassification",
+      "source": "volkerwesselsbvgo",
+      "edition": "0.1",
+      "editionDate": "2024-07-31T00:00:00Z",
+      "name": "Basis bouwproducten O&E",
+      "description": "",
+      "location": "https://identifier.buildingsmart.org/uri/volkerwesselsbvgo/basis_bouwproducten_oene/0.1"
+    },
+    "parameterMapping": "Description"
+  },
+  "ifcDictionary": {
+    "ifcClassification": {
+      "type": "IfcClassification",
+      "source": "buildingsmart",
+      "edition": "4.3",
+      "editionDate": "2024-01-12T00:00:00Z",
+      "name": "IFC",
+      "description": "",
+      "location": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3"
+    },
+    "parameterMapping": "Export Type to IFC As"
+  },
+  "filterDictionaries": [
+    {
+      "ifcClassification": {
+        "type": "IfcClassification",
+        "source": "nlsfb",
+        "edition": "2.2",
+        "editionDate": "2005-01-01T00:00:00Z",
+        "name": "NL-SfB 2005",
+        "description": "",
+        "location": "https://identifier.buildingsmart.org/uri/nlsfb/nlsfb2005/2.2"
+      },
+      "parameterMapping": "Assembly Code"
+    }
+  ],
+  "language": "en-GB",
+  "includeTestDictionaries": true
+}

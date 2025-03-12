@@ -144,8 +144,6 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IfcJson\IfcJson.cs" />
-    <Compile Include="IfcJson\IfcJsonConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -162,6 +160,12 @@
     <Compile Include="UI\BsddBridge\BsddBridgeData.cs" />
     <Compile Include="UI\BsddBridge\BsddSearchBridge.cs" />
     <Compile Include="UI\BsddBridge\BsddSelectionBridge.cs" />
+    <Compile Include="UI\View\BsddSearch.xaml.cs">
+      <DependentUpon>BsddSearch.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\View\BsddSelection.xaml.cs">
+      <DependentUpon>BsddSelection.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Wrappers\MethodsWrapped.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -186,5 +190,19 @@
       <Name>Bsdd.Core</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Page Include="UI\View\BsddSearch.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\View\BsddSelection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetPath)" "C:\TeklaStructures\2023.0\Environments\common\extensions\Features"</PostBuildEvent>
+  </PropertyGroup>
 </Project>

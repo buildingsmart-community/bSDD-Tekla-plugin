@@ -3,12 +3,103 @@
   "WorkspaceRootPath": "C:\\source\\bSDD-Tekla-plugin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\view\\bsddsearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\view\\bsddsearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\fa6bc87b25baa4e9ad9a4c60d3a2c4806f339c0b6f13fab1522ceaff8877ae44\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\7b250abcaa865300f04091edcfdbab23c166f1d215fe77aa7ab51388931b7957\\ComboBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|solutionrelative:bsddteklafeature\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\bsddbridge\\bsddsearchbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\bsddbridge\\bsddsearchbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BsddTeklaFeature||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BsddTeklaPlugin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Bsdd.Core.Logic||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature\\features\\bsddteklafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|solutionrelative:bsddteklafeature\\features\\bsddteklafeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BsddTeklaFeature.Logic||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Bsdd.Core||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\services\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|solutionrelative:bsdd.core.logic\\services\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\services\\browserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|solutionrelative:bsdd.core.logic\\services\\browserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\services\\ifcexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|solutionrelative:bsdd.core.logic\\services\\ifcexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature\\resources\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|solutionrelative:bsddteklafeature\\resources\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\ff7c70866481447717d7a924fca3a38ddf16d20fcc254409d1b4d7dd73b147c4\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|solutionrelative:bsddteklafeature\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|C:\\source\\bSDD-Tekla-plugin\\bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\view\\bsddsearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\view\\bsddsearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\wrappers\\methodswrapped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\wrappers\\methodswrapped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|solutionrelative:bsddteklafeature.logic\\ui\\bsddbridge\\bsddbridgedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\ui\\services\\icustombrowsercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|solutionrelative:bsdd.core.logic\\ui\\services\\icustombrowsercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\ui\\services\\ibrowserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|solutionrelative:bsdd.core.logic\\ui\\services\\ibrowserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0258C75F-9758-4F77-8A68-2322D9773236}|BsddTeklaFeature\\BsddTeklaFeature.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AB3E4-9BDB-4DEA-8882-D113C27389F5}|BsddTeklaPlugin\\BsddTeklaPlugin.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklaplugin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F377FB6-4E17-48BD-945C-60E4DE5B67F0}|Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core.logic\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72177168-C803-4536-B292-B9F9D9112D25}|Bsdd.Core\\Bsdd.Core.csproj|c:\\source\\bsdd-tekla-plugin\\bsdd.core\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6010053-BCA5-463A-A567-8D8D712B9E87}|BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj|c:\\source\\bsdd-tekla-plugin\\bsddteklafeature.logic\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +121,291 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IfcExportService.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\IfcExportService.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\Services\\IfcExportService.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\IfcExportService.cs",
+              "RelativeToolTip": "Bsdd.Core.Logic\\Services\\IfcExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:16:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BrowserService.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\BrowserService.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\Services\\BrowserService.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\BrowserService.cs",
+              "RelativeToolTip": "Bsdd.Core.Logic\\Services\\BrowserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:16:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceFactory.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\ServiceFactory.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\Services\\ServiceFactory.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Services\\ServiceFactory.cs",
+              "RelativeToolTip": "Bsdd.Core.Logic\\Services\\ServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:14:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\fa6bc87b25baa4e9ad9a4c60d3a2c4806f339c0b6f13fab1522ceaff8877ae44\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\fa6bc87b25baa4e9ad9a4c60d3a2c4806f339c0b6f13fab1522ceaff8877ae44\\Application.cs",
+              "ToolTip": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\fa6bc87b25baa4e9ad9a4c60d3a2c4806f339c0b6f13fab1522ceaff8877ae44\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\fa6bc87b25baa4e9ad9a4c60d3a2c4806f339c0b6f13fab1522ceaff8877ae44\\Application.cs [Read Only]",
+              "ViewState": "AgIAAJwGAAAAAAAAAAAhwKwGAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:10:52.633Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\7b250abcaa865300f04091edcfdbab23c166f1d215fe77aa7ab51388931b7957\\ComboBox.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\7b250abcaa865300f04091edcfdbab23c166f1d215fe77aa7ab51388931b7957\\ComboBox.cs",
+              "ToolTip": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\7b250abcaa865300f04091edcfdbab23c166f1d215fe77aa7ab51388931b7957\\ComboBox.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\7b250abcaa865300f04091edcfdbab23c166f1d215fe77aa7ab51388931b7957\\ComboBox.cs [Read Only]",
+              "ViewState": "AgIAAG0CAAAAAAAAAAAhwH0CAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:10:49.786Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BsddTeklaFeature.Logic",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\BsddTeklaFeature.Logic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T15:09:56.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BsddTeklaFeature.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\Features\\BsddTeklaFeature.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature\\Features\\BsddTeklaFeature.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\Features\\BsddTeklaFeature.cs",
+              "RelativeToolTip": "BsddTeklaFeature\\Features\\BsddTeklaFeature.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:07:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Icons.xaml",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\Resources\\Icons.xaml",
+              "RelativeDocumentMoniker": "BsddTeklaFeature\\Resources\\Icons.xaml",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\Resources\\Icons.xaml",
+              "RelativeToolTip": "BsddTeklaFeature\\Resources\\Icons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T15:07:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\ff7c70866481447717d7a924fca3a38ddf16d20fcc254409d1b4d7dd73b147c4\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\ff7c70866481447717d7a924fca3a38ddf16d20fcc254409d1b4d7dd73b147c4\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\ff7c70866481447717d7a924fca3a38ddf16d20fcc254409d1b4d7dd73b147c4\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\Users\\gvln\\AppData\\Local\\Temp\\.vsdbgsrc\\ff7c70866481447717d7a924fca3a38ddf16d20fcc254409d1b4d7dd73b147c4\\XamlReader.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAUwGkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:06:36.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bsdd.Core",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core\\Bsdd.Core.csproj",
+              "RelativeDocumentMoniker": "Bsdd.Core\\Bsdd.Core.csproj",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core\\Bsdd.Core.csproj",
+              "RelativeToolTip": "Bsdd.Core\\Bsdd.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T15:01:41.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bsdd.Core.Logic",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj",
+              "RelativeToolTip": "Bsdd.Core.Logic\\Bsdd.Core.Logic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T15:01:37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BsddTeklaPlugin",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaPlugin\\BsddTeklaPlugin.csproj",
+              "RelativeDocumentMoniker": "BsddTeklaPlugin\\BsddTeklaPlugin.csproj",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaPlugin\\BsddTeklaPlugin.csproj",
+              "RelativeToolTip": "BsddTeklaPlugin\\BsddTeklaPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T15:01:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BsddTeklaFeature",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\BsddTeklaFeature.csproj",
+              "RelativeDocumentMoniker": "BsddTeklaFeature\\BsddTeklaFeature.csproj",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\BsddTeklaFeature.csproj",
+              "RelativeToolTip": "BsddTeklaFeature\\BsddTeklaFeature.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T15:00:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BsddSearchBridge.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddSearchBridge.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddSearchBridge.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddSearchBridge.cs",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddSearchBridge.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:00:17.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\App.config",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\App.config",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\App.config",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T14:29:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BsddSearch.xaml.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml.cs",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:26:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BsddSearch.xaml",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml",
+              "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml",
+              "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\View\\BsddSearch.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T14:26:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomBrowserControl.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\UI\\Services\\ICustomBrowserControl.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\UI\\Services\\ICustomBrowserControl.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\UI\\Services\\ICustomBrowserControl.cs",
+              "RelativeToolTip": "Bsdd.Core.Logic\\UI\\Services\\ICustomBrowserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:23:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBrowserService.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\UI\\Services\\IBrowserService.cs",
+              "RelativeDocumentMoniker": "Bsdd.Core.Logic\\UI\\Services\\IBrowserService.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\Bsdd.Core.Logic\\UI\\Services\\IBrowserService.cs",
+              "RelativeToolTip": "Bsdd.Core.Logic\\UI\\Services\\IBrowserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:23:19.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BsddTeklaFeature\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BsddTeklaFeature\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:20:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BsddTeklaFeature\\MainWindow.xaml",
+              "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature\\MainWindow.xaml",
+              "RelativeToolTip": "BsddTeklaFeature\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T14:20:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "MethodsWrapped.cs",
               "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
               "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
               "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
               "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\Wrappers\\MethodsWrapped.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAwwC4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwCcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T15:00:44.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "BsddBridgeData.cs",
               "DocumentMoniker": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
               "RelativeDocumentMoniker": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
               "ToolTip": "C:\\source\\bSDD-Tekla-plugin\\BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
               "RelativeToolTip": "BsddTeklaFeature.Logic\\UI\\BsddBridge\\BsddBridgeData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T15:00:38.535Z",
               "EditorCaption": ""

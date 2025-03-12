@@ -1,9 +1,0 @@
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\bin\Debug\Bsdd.Core.Logic.dll.config
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\bin\Debug\Bsdd.Core.Logic.dll
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\bin\Debug\Bsdd.Core.Logic.pdb
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.csproj.AssemblyReference.cache
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.Properties.Resources.resources
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.csproj.GenerateResource.cache
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.csproj.CoreCompileInputs.cache
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.dll
-C:\source\bSDD-Tekla-plugin\Bsdd.Core.Logic\obj\Debug\Bsdd.Core.Logic.pdb
